@@ -1,6 +1,6 @@
-# MATLAB codes for universal inputs and persistency of excitation
+# MATLAB code for universal inputs and persistency of excitation
 
-MATLAB codes for the examples in Ref.[^1]. 
+MATLAB code for the examples in Ref.[^1]. 
 
 ## File(s)
 
